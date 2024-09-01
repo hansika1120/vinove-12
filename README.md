@@ -12,7 +12,7 @@ This project is an advanced, background-running Activity Tracker designed for co
  * Irregular Input Tracking: Captures and logs irregular mouse movements and keyboard inputs
 
 ## Installation Guide
-Follow these steps to set up and run the Activity Tracker on your local machine:
+Follow these steps to set up and run the Activity Tracker on your local machine: 
 
 
 
@@ -62,4 +62,4 @@ Vinove-project-main/
     │   ├── [hidden elements]
     ├── templates/
         └── index.html
-```
+``` 
